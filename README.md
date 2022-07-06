@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my first web design using Httml and css only, yeah as you can see this is not working as usual calendar because its just a layout and design and also it is not a  responsive webpage and that is why I'm currently learning those tags and properties to improve my web developer career. 
+
 <!--
 **PetErSitcHon/PetErSitchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
